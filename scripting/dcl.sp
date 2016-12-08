@@ -13,9 +13,9 @@
 #include <dynamic>
 
 // Dynamic Collections
-#include "dcl/collone.inc"
-#include "dcl/colltwo.inc"
-#include "dcl/collthree.inc"
+#include "dcl/collone.sp"
+#include "dcl/colltwo.sp"
+#include "dcl/collthree.sp"
 
 public Plugin myinfo = 
 {
